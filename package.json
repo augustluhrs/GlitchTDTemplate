@@ -5,6 +5,9 @@
   "repository": "git@github.com:augustluhrs/GlitchTDTemplate.git",
   "author": "augustluhrs <augustluhrs@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^4.21.1",
     "socket.io": "^4.8.1"
